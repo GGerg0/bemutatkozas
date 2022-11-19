@@ -2,5 +2,11 @@ body{
     background-color: red;
 }
 #vissza{
-    width:100px;
+    width:75px;
+    border: 2px solid white;
+    border-radius: 16px;
+    background-color: white;
+}
+#vissza:hover{
+    background-color: lightgray;
 }
