@@ -1,0 +1,11 @@
+*{
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: green;
+}
+#rolam{
+    border-bottom: 5px solid black;
+}
