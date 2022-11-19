@@ -1,29 +1,49 @@
 *{
-    margin: auto;
+    /* margin: auto; */
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 150%;
 }
 
 body{
     background-color: lightblue;
+    
 }
 
-#rolam{
+table{
+    font-size: 3rem;
+    margin:auto;
+    border-collapse: separate;
+    border-spacing: 3rem 10px;
+    
+}
+
+.gomb{
     border: 2px solid grey;
     background-color: white;
     border-radius: 16px;
+    padding: 1rem;
+    width: 50%;
+    font-weight: bold;
 }
 
-#rolam:hover{
+.gomb:hover{
     background-color: lightgrey;
 
 }
 
 h1{
     font-weight: bold;
+    font-size: 5rem;
+    text-decoration: underline;
 }
 
-table{
-    /* font-size: ; */
+p{
+    text-align: right;
+    color:grey;
+    font-style: italic;
+}
+
+div{
+    background-color: grey;
+    border: 2px solid grey;
 }
