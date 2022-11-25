@@ -3,10 +3,15 @@ body{
 }
 #vissza{
     width:75px;
-    border: 2px solid white;
+    border: 2px solid grey;
     border-radius: 16px;
     background-color: white;
 }
 #vissza:hover{
     background-color: lightgray;
 }
+
+body{
+    background-color: lightgreen;
+}
+
