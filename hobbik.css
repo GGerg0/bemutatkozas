@@ -22,7 +22,7 @@ div{
     text-align: center;
     margin: 0 50px 0 50px;
 }
-ol{
+ul{
     text-align: left;
 }
 
@@ -31,4 +31,8 @@ ol{
     width: 50%;
     border: 5px solid black;
     border-radius: 16px;
+}
+
+h1{
+    text-decoration: underline;
 }

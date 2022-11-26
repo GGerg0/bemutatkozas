@@ -29,3 +29,7 @@ div{
     text-align: center;
     margin: 0 50px 0 50px;
 }
+
+h1{
+    text-decoration:underline;
+}

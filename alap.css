@@ -46,3 +46,9 @@ div{
     background-color: grey;
     border: 2px solid grey;
 }
+
+#kep{
+    width:25%;
+    border:5px solid black;
+    border-radius: 16px;
+}
