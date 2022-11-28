@@ -1,1 +1,1 @@
-A kezdooldal.hml nevű fájlt kell megnyitni.
+A kezdooldal.html nevű fájlt kell megnyitni.
